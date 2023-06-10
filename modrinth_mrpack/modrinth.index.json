@@ -6,6 +6,17 @@
     "files": [
         {
             "downloads": [
+                "https://cdn.modrinth.com/data/ftdbN0KK/versions/ivJ0srK8/badpackets-fabric-0.4.1.jar"
+            ],
+            "fileSize": 27736,
+            "hashes": {
+                "sha1": "64ed580b9a7c8d4da646944bd01c775c9aa9cb97",
+                "sha512": "2501637744bd37aa746bc3a4210d1066b503248f3706db214821525226d95414de3d606314eb83c8b21103390f6d3acde632236d230711935d0b35064bad8760"
+            },
+            "path": "mods/badpackets-fabric-0.4.1.jar"
+        },
+        {
+            "downloads": [
                 "https://cdn.modrinth.com/data/kYq5qkSL/versions/n8nRcdvu/borderless-mining-1.1.7%2B1.19.4.jar"
             ],
             "fileSize": 112954,
@@ -91,17 +102,6 @@
                 "sha512": "99fcfe1be5be7abd8f1f86c305a8b0fca9a5f5fa3f486306b804cb694ce6d0fe5a5b2465ae2b913dd720600d9c64cec3734541c7dd4b7c320dc7a3c9035c5cc1"
             },
             "path": "mods/entityculling-fabric-1.6.2-mc1.19.4.jar"
-        },
-        {
-            "downloads": [
-                "https://cdn.modrinth.com/data/DynYZEae/versions/UoODOgsC/exordium-fabric-1.1.1-mc1.19.4.jar"
-            ],
-            "fileSize": 181303,
-            "hashes": {
-                "sha1": "d44e989c21504b80f3cdcaacc2e8630fbff1b796",
-                "sha512": "482ff681c34d5d09de017f6fd6ec175abfeeb75120871b1d77860b97e71f276f979495e8cd47a3c1a9acb8485edbc9f690a0ceefe1173368dfe024b166058d4b"
-            },
-            "path": "mods/exordium-fabric-1.1.1-mc1.19.4.jar"
         },
         {
             "downloads": [
@@ -201,6 +201,17 @@
                 "sha512": "5c0f1f0c7f56f7a19bfb14beecf2cf8f6e8330eb3b60ddfc6c87d91dba6fdf3dbfe5053c0e6f78178d12811b523d1d5bdb037bec1cb57b925ffaf1f71cc95df0"
             },
             "path": "mods/iris-mc1.19.4-1.6.4.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/uLbm7CG6/versions/BvZSi6xV/language-reload-1.5.7%2B1.19.4.jar"
+            ],
+            "fileSize": 64297,
+            "hashes": {
+                "sha1": "2a692043411d1a02c7762dea72d71993b23b244e",
+                "sha512": "5160d9e7f60a67e951a89dcd27fca17b7f7832ec9dca8f9ed95c4a9e59a8c07fc853b66b7fe01b1befeb7ecaca7e2bd3cf70cdedac8ab2722fe489f3f56ec59b"
+            },
+            "path": "mods/language-reload-1.5.7+1.19.4.jar"
         },
         {
             "downloads": [
@@ -311,6 +322,39 @@
                 "sha512": "f40605c41d348e7be648694d5855984be46ed154181735e0c5449c3f32f07c2db1f8698c573c6122c673f9d8a1363be79e8630a27a9ec47016e8d66a8d8d3296"
             },
             "path": "mods/vmp-fabric-mc1.19.4-0.2.0+beta.7.73-all.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/6AQIaxuO/versions/4mGmP2qB/wthit-fabric-7.3.2.jar"
+            ],
+            "fileSize": 464008,
+            "hashes": {
+                "sha1": "c54ba7ac62295c4fece58eb0730c1072290642fa",
+                "sha512": "95b5496d7381df26207266ff3f3a92699580c1a199f0c1c84803550e0baa7e518608ed22ede59ca718787e8a1545b0e45253fbaa66d666501e26cbcf1b1728ec"
+            },
+            "path": "mods/wthit-fabric-7.3.2.jar"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/tN4E9NfV/versions/aPm7UDFh/Chat%20Reporting%20Helper.zip"
+            ],
+            "fileSize": 21427,
+            "hashes": {
+                "sha1": "082ab1dfb0b39e99fc59bba413753d5b9bd9f047",
+                "sha512": "9a6d0149405c72b39b6464473a7d9c0c1c0a4a05a16346b0d4ee360e54bcc09882b0ae0b05e07da1f2fb2e915e5dd9e7592b45cdcee16dd717b4c294666bfc1f"
+            },
+            "path": "resourcepacks/Chat Reporting Helper.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/dspVZXKP/versions/klfR3lzB/Fast%20Better%20Grass.zip"
+            ],
+            "fileSize": 10943,
+            "hashes": {
+                "sha1": "0a2c3314958db3752edfda86c54904d55afa94db",
+                "sha512": "fd793aa34db0cc9bd69826c4144dc56fa95e2cd68697b8a017e65a64467db0ffe0eff8cc3869ece9ca463dd6c04c5665e856ef4f1e29a9a24ea822d1d6f86e21"
+            },
+            "path": "resourcepacks/Fast Better Grass.zip"
         }
     ],
     "formatVersion": 1,
