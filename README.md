@@ -1,13 +1,13 @@
-# Uranium
-
 Introducing **Uranium** - The Minecraft Modpack for Enhanced Performance and Smooth Gameplay!
 
-**--ALL MODS ARE ON MODRINTH!--**
+**--ALL MODS ARE ON MODRINTH AND FROM MODRINTH!--**
 
 **Uranium** is a carefully curated modpack designed to optimize your Minecraft experience by reducing 
 load times, improving performance, and making the game run smoother than ever before. Whether you're exploring vast worlds, constructing massive structures, or engaging in intense combat, Uranium ensures that your gameplay remains seamless and enjoyable.
 
 __Note:__ Uranium is currently only compatible with __Minecraft__ version __1.19.4__ and __1.20.1__ and is designed to work with both single-player and multiplayer modes.
+
+---
 
 Key Features:
 >**1.** 
@@ -24,6 +24,6 @@ Load Time Reduction: Tired of waiting for ages while the game loads? Uranium inc
 
 >**6.** Craftify: Uranium goes beyond just enhancing your Minecraft gameplay - it has Craftify in it, allowing you to display the currently playing song directly in your Minecraft interface. Immerse yourself in the perfect combination of gaming and music by effortlessly viewing your favorite tracks, playlists, and artists while exploring Minecraft.
 
------------------------------------
+---
 
 > **Say goodbye to performance issues, long load times, and stuttering gameplay. Dive into your Minecraft adventures with enhanced performance, reduced load times, and a silky-smooth experience.**
