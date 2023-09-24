@@ -1,4 +1,4 @@
-# uranium
+# Uranium
 
 Introducing **Uranium** - The Minecraft Modpack for Enhanced Performance and Smooth Gameplay!
 
