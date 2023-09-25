@@ -1,6 +1,6 @@
 {
   "main_menu": {
-    "top_left": [["",{"text":"Uranium 1.1","bold":false,"underlined":true,"color":"green"},{"text":" with "},{"text":"\u2764","color":"dark_red"},{"text":" by "},{"text":"skruffied","color":"yellow","underlined":true,"clickEvent":{"action":"open_url","value":"https://www.youtube.com/channel/UCEbh0Hw_SZJSeuGlQdx43Ww"},"hoverEvent":{"action":"show_text","contents":"My YouTube :3"}}]],
+    "top_left": [["",{"text":"Uranium 1.1.1","bold":false,"underlined":true,"color":"green"},{"text":" with "},{"text":"\u2764","color":"dark_red"},{"text":" by "},{"text":"skruffied","color":"yellow","underlined":true,"clickEvent":{"action":"open_url","value":"https://www.youtube.com/channel/UCEbh0Hw_SZJSeuGlQdx43Ww"},"hoverEvent":{"action":"show_text","contents":"My YouTube :3"}}]],
     "top_right": [{"text":"<3","color":"dark_red"}
   ],
     "bottom_left": [],
