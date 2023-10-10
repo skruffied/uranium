@@ -2,10 +2,12 @@
   color: green;
   font-family: "Poppins", sans-serif;
   text-align: center;
+  font-size: 90px;
 }
 
 .link {
   color: DarkOrchid;
   font-family: "Poppins", sans-serif;
+  font-size: 20px;
 }
 
