@@ -1,7 +1,7 @@
 .title {
   color: green;
   font-family: "Poppins", sans-serif;
-  text-align: center;
+  text-align: ;
   font-size: 90px;
 }
 
@@ -12,3 +12,15 @@
   text-align: center;
 }
 
+.header {
+    display: flex;
+    align-items: center;
+}
+
+h1 {
+    flex: 1;
+}
+
+img {
+    margin-left: 20px;
+}
