@@ -1,13 +1,11 @@
-/* Allgemeine Stile */
 body {
     font-family: "Poppins", sans-serif;
     background-color: #f0f0f0;
     text-align: center;
 }
 
-/* Header-Stile */
 .header {
-    display: flex; /* Nutze Flexbox für die Anordnung */
+    display: flex;
     align-items: center;
     padding: 20px;
 }
@@ -15,7 +13,7 @@ body {
 .title {
     flex: 1;
     font-size: 72px;
-    margin: 0; /* Entfernt die Standardabstände des h1-Elements */
+    margin: 0;
 }
 
 .logo {
@@ -23,7 +21,6 @@ body {
     margin-left: 20px;
 }
 
-/* Link-Stile */
 .link {
     color: DarkOrchid;
     font-size: 20px;
