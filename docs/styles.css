@@ -7,7 +7,7 @@ body {
 
 /* Header-Stile */
 .header {
-    display: flex;
+    display: flex; /* Nutze Flexbox für die Anordnung */
     align-items: center;
     padding: 20px;
 }
@@ -19,8 +19,8 @@ body {
 }
 
 .logo {
+    max-width: 72px;
     margin-left: 20px;
-    max-width: 72px; /* Hier die gleiche Breite wie der Text */
 }
 
 /* Link-Stile */
