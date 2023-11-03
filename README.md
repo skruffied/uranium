@@ -1,14 +1,11 @@
-Source code for Uranium
-
-
 Introducing **Uranium** - The Minecraft Modpack for Enhanced Performance and Smooth Gameplay!
 
-**--ALL MODS ARE ON MODRINTH AND FROM THE MODRINTH PLATFORM!--**
+# ALL MODS ARE ON MODRINTH!
 
 **Uranium** is a carefully curated modpack designed to optimize your Minecraft experience by reducing 
 load times, improving performance, and making the game run smoother than ever before. Whether you're exploring vast worlds, constructing massive structures, or engaging in intense combat, Uranium ensures that your gameplay remains seamless and enjoyable.
 
-__Note:__ Uranium is currently only compatible with __Minecraft__ version __1.19.4__ and __1.20.1__ and is designed to work with both single-player and multiplayer modes.
+__Note:__ Uranium is currently only compatible with __Minecraft__ version __1.19.4__, __1.20.1__ and __1.20.2__ is designed to work with both single-player and multiplayer modes.
 
 ---
 
@@ -24,8 +21,6 @@ Load Time Reduction: Tired of waiting for ages while the game loads? Uranium inc
 >**4.** Visual Optimization: Enhance your visual experience! Uranium includes mods that optimize shaders, textures, and graphical effects, allowing you to enjoy stunning visuals!
 
 >**5.** Compatibility and Stability: Uranium is built with compatibility and stability in mind. All included mods are thoroughly tested and carefully selected to ensure they work seamlessly together, avoiding conflicts and crashes. Enjoy a hassle-free modding experience with a stable and reliable gameplay environment.
-
->**6.** Craftify: Uranium goes beyond just enhancing your Minecraft gameplay - it has Craftify in it, allowing you to display the currently playing song directly in your Minecraft interface. Immerse yourself in the perfect combination of gaming and music by effortlessly viewing your favorite tracks, playlists, and artists while exploring Minecraft.
 
 ---
 
