@@ -4,8 +4,6 @@ Introducing **Uranium** – A Minecraft Modpack for Peak Performance and Smooth 
 **Uranium** is a carefully curated modpack designed to optimize your Minecraft experience by reducing 
 load times, improving performance, and making the game run smoother than ever before. Whether you're exploring vast worlds, constructing massive structures, or engaging in intense combat, Uranium ensures that your gameplay remains seamless and enjoyable.
 
-__Note:__ Uranium is currently supporting __Minecraft__ version __1.19.4__, __1.20.1__, __1.20.2__ and __1.20.4__. Uranium is designed to work with both single-player and multiplayer modes.
-
 ---
 
 Key Features:
