@@ -1,5 +1,4 @@
-Introducing **Uranium** – A Minecraft Modpack for Peak Performance and Smooth Gameplay!
-# ALL MODS SOURCED FROM THE MODRINTH PLATFORM!
+## Introducing **Uranium** – A Minecraft Modpack for Peak Performance and Smooth Gameplay!
 
 **Uranium** is a carefully curated modpack designed to optimize your Minecraft experience by reducing 
 load times, improving performance, and making the game run smoother than ever before. Whether you're exploring vast worlds, constructing massive structures, or engaging in intense combat, Uranium ensures that your gameplay remains seamless and enjoyable.
