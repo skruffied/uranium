@@ -25,4 +25,4 @@ Reduced Load Times: Tired of those endless loading screens? Uranium speeds up wo
 
 ---
 
-> **Say goodbye to performance issues, long load times, and stuttering gameplay. With Uranium, dive into your Minecraft adventures with enhanced performance, quicker load times, and a butter-smooth experience.**
+**Say goodbye to performance issues, long load times, and stuttering gameplay. With Uranium, dive into your Minecraft adventures with enhanced performance, quicker load times, and a butter-smooth experience.**
