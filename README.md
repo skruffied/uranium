@@ -1,7 +1,9 @@
 ## Introducing **Uranium** – A Minecraft Modpack for awesome Performance and Smooth Gameplay!
+(I know there are many perfomance modpacks, but give it a try! :D)
 
 **Uranium** is a modpack designed to optimize your Minecraft experience by reducing 
-load times and improving performance. I tried to include as few mods as possible ^^
+load times and improving performance. 
+I tried to include as few mods as possible ^^
 
 ---
 
