@@ -1,25 +1,25 @@
-## Introducing **Uranium** – A Minecraft Modpack for Peak Performance and Smooth Gameplay!
+## Introducing **Uranium** – A Minecraft Modpack for awesome Performance and Smooth Gameplay!
 
-**Uranium** is a carefully curated modpack designed to optimize your Minecraft experience by reducing 
-load times, improving performance, and making the game run smoother than ever before. Whether you're exploring vast worlds, constructing massive structures, or engaging in intense combat, Uranium ensures that your gameplay remains seamless and enjoyable.
+**Uranium** is a modpack designed to optimize your Minecraft experience by reducing 
+load times and improving performance. I tried to include as few mods as possible ^^
 
 ---
 
 Key Features:
 >**1.**
-No In-Game Branding: We keep Uranium unobtrusive – you won’t find the Uranium logo, name, or any branding in the game. We also give you full control! You configure the mods just the way you like them.
+No In-Game Branding: I kept Uranium out of your game :)
 
 >**2.** 
-Performance-Enhancing Mods: Uranium integrates a range of mods aimed at boosting performance, reducing lag, and increasing frame rates. Mods like Sodium, Chunky, and Lithium are perfect examples.
+Performance-Enhancing Mods: Uranium integrates a range of mods aimed at boosting performance, reducing lag, and increasing frame rates. Mods like Sodium, Chunky, and Lithium are great examples.
 
 >**3.** 
-Reduced Load Times: Tired of those endless loading screens? Uranium streamlines the loading process by cutting down on unnecessary resource loading and speeding up world generation.
+Reduced Load Times: Tired of those endless loading screens? Uranium speeds up world generation and starting time of Minecraft.
 
->**4.** Memory Optimization: Efficient memory management is key for a smooth Minecraft experience. Uranium includes mods that optimize memory usage, prevent leaks, and smartly allocate resources, ensuring smooth gameplay even on less powerful systems.
+>**4.** Memory Optimization: Uranium includes mods that optimize memory usage, prevent leaks, and smartly allocate resources, ensuring smooth gameplay even on less powerful systems.
 
->**5.** Visual Enhancements: Take your visual experience up a step! Uranium includes Sodium and Iris that add the ability to apply shaders and graphical effects for stunning visuals!
+>**5.** Visual Enhancements: Download Shaders!!! Uranium includes Sodium and Iris that add the ability to apply shaders and graphical effects for beautiful visuals!
 
->**6.** Compatibility and Stability: Built with compatibility and stability in mind, Uranium’s mods are thoroughly tested to work awesome together, minimizing conflicts and crashes. Enjoy a seamless modding experience in a stable, reliable environment.
+>**6.** Compatibility and Stability: Built with compatibility and stability in mind, Uranium’s mods are tested to work together, minimizing conflicts and crashes. Enjoy a Miencraft in a stable, reliable environment.
 
 ---
 
